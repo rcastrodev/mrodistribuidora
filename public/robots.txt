@@ -1,0 +1,4 @@
+User-agent: *
+Allow:*
+Disallow: https://mrodistribuidora.com/productos?page*
+Sitemaps: http://mrodistribuidora.com/sitemap.xml
